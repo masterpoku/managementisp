@@ -1,7 +1,7 @@
 # managementisp
-Nama : Auliya Wafi Rohmatillah \n
-Nim : 201969040071 \n
-Kelas :7B\n
+Nama : Auliya Wafi Rohmatillah
+Nim : 201969040071
+Kelas :7B
 
 
 # FIGMA
